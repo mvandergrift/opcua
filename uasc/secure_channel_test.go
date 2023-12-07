@@ -11,11 +11,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gopcua/opcua/id"
-	"github.com/gopcua/opcua/ua"
-	"github.com/gopcua/opcua/uacp"
-	"github.com/gopcua/opcua/uapolicy"
-	"github.com/gopcua/opcua/uatest"
+	"github.com/mvandergrift/opcua/id"
+	"github.com/mvandergrift/opcua/ua"
+	"github.com/mvandergrift/opcua/uacp"
+	"github.com/mvandergrift/opcua/uapolicy"
+	"github.com/mvandergrift/opcua/uatest"
 	"github.com/pascaldekloe/goe/verify"
 )
 

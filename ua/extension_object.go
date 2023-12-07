@@ -5,8 +5,8 @@
 package ua
 
 import (
-	"github.com/gopcua/opcua/debug"
-	"github.com/gopcua/opcua/id"
+	"github.com/mvandergrift/opcua/debug"
+	"github.com/mvandergrift/opcua/id"
 )
 
 // eotypes contains all known extension objects.

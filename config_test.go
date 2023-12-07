@@ -14,10 +14,10 @@ import (
 
 	"github.com/pascaldekloe/goe/verify"
 
-	"github.com/gopcua/opcua/ua"
-	"github.com/gopcua/opcua/uacp"
-	"github.com/gopcua/opcua/uapolicy"
-	"github.com/gopcua/opcua/uasc"
+	"github.com/mvandergrift/opcua/ua"
+	"github.com/mvandergrift/opcua/uacp"
+	"github.com/mvandergrift/opcua/uapolicy"
+	"github.com/mvandergrift/opcua/uasc"
 )
 
 // test certificate generated with
